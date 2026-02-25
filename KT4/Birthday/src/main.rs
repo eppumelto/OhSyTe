@@ -18,15 +18,14 @@ fn main() {
     };
 
     let today = Local::now().date_naive();
+    let duration = today.signed_duration_since(birth_date);
+    let difference = duration.num_days();
 
     if birth_date.month() == today.month() && birth_date.day() == today.day() {
         println!("Happy birthday!");
     } else {
         println!("Today is not your birthday.");
     }
-
-    let duration = today.signed_duration_since(birth_date);
-    let difference = duration.num_days();
 
     if difference > 0 {
         println!("You are {} days old!", difference);
