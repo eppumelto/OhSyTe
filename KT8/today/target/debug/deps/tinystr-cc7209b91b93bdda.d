@@ -1,0 +1,12 @@
+C:\Users\Eppu\Documents\Koulu\OhSyTe\KT8\today\target\debug\deps\tinystr-cc7209b91b93bdda.d: C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\lib.rs C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\macros.rs C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\ascii.rs C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\asciibyte.rs C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\error.rs C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\int_ops.rs C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\unvalidated.rs C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\ule.rs
+
+C:\Users\Eppu\Documents\Koulu\OhSyTe\KT8\today\target\debug\deps\libtinystr-cc7209b91b93bdda.rmeta: C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\lib.rs C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\macros.rs C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\ascii.rs C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\asciibyte.rs C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\error.rs C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\int_ops.rs C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\unvalidated.rs C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\ule.rs
+
+C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\lib.rs:
+C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\macros.rs:
+C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\ascii.rs:
+C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\asciibyte.rs:
+C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\error.rs:
+C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\int_ops.rs:
+C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\unvalidated.rs:
+C:\Users\Eppu\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tinystr-0.8.2\src\ule.rs:
